@@ -16,8 +16,8 @@ Follow these steps to build the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anonymous5164/Multiplicative_to_Additive.git
-cd Multiplicative_to_Additive
+git clone https://github.com/Anonymous5164/Cypherock_Assignment.git
+cd Cypherock_Assignment
 
 # Create build directory
 mkdir build
